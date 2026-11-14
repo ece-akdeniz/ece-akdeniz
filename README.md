@@ -1,6 +1,6 @@
 # Ece Akdeniz
 
-MSc Computer Science student at the University of Stuttgart, interested in robotics, perception, state estimation, and applied AI.
+MSc Computer Science student at the University of Stuttgart, specializing in Autonomous Systems. Interested in robotics, perception, state estimation, and applied AI.
 
 ## Selected projects
 
